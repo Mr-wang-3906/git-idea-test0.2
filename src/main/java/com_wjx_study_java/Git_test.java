@@ -10,6 +10,6 @@ public class Git_test {
         System.out.println("hello wjx");
         System.out.println("hello java");
         System.out.println("hello idea");
-        System.out.println("hello feature");
+        System.out.println("hello zzy");
     }
 }
