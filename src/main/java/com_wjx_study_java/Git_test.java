@@ -11,6 +11,6 @@ public class Git_test {
         System.out.println("hello java");
         System.out.println("hello idea");
         System.out.println("hello zzy");
-        System.out.println("hot fix version");
+        System.out.println("hot fix version 0.2");
     }
 }
