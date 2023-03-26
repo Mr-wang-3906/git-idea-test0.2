@@ -16,5 +16,6 @@ public class Git_test {
         System.out.println("hot fix version 0.3");
         System.out.println("hot fix version 0.4");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
